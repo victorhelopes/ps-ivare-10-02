@@ -1,0 +1,22 @@
+*{
+    font-family: Roboto,sans-serif;
+}
+
+form{
+    background-color: rgba(0, 0, 255, 0.445);
+    width: 25%;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+label{
+    padding-left: 20px;
+    margin-top: 20px;
+}
+
+button{
+    margin-top: 5px;
+    margin-left: 35%;
+    border-radius: 5px;
+    background-color: #FFF;
+}
